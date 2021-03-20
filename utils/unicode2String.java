@@ -12,7 +12,5 @@
             sb.append((char) data);
 
         }
-        System.out.println("\u500a");
-        System.out.println(sb.toString());
         return sb.toString();
     }
